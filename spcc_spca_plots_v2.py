@@ -15,7 +15,7 @@ from scipy.signal import savgol_filter
 from pathlib import Path
 
 # ============= CONFIGURATION =============
-data_dir = Path(r"C:\Users\berke\Desktop\IBA\data_analysis\2025-12-Poly-Lysine test")
+data_dir = Path(r"C:\Users\berke.santos\Documents\CEMHTI\IBA\Analysis\2025-12-Poly-Lysine test\Raw_Data")
 file_path = data_dir / "A0112000.spca"
 
 # ============= DEFINE YOUR REGION OF INTEREST =============
